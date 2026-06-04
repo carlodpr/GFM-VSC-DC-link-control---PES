@@ -24,6 +24,3 @@ VFlexP repository: <https://github.com/atomasmartin/VFlexP>
 
 In this work, I have acted exclusively as a user of VFlexP to implement and simulate the case study and the proposed DC-link control strategy presented in the article.
 
-## Citation
-
-If you use this case study, please cite the article above.
